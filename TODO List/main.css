@@ -1,0 +1,48 @@
+body {
+    background-color: #FAC0C1;
+}
+
+.form{
+    align-items: center;
+}
+input {
+    align-items: center;
+    text-align:center;
+    max-width: 350px;
+    color: rgb(0, 0, 0);
+    background-color: #eda6d8;
+}
+
+
+#todo-list{
+    text-align: center;
+    font-family: 'Lora', serif;
+    font-family: 'Ubuntu Mono', monospace;;
+    text-align: center;
+    font-size: 30px;
+}
+
+h1 {
+
+    text-shadow: #b0afad;
+    font-family: 'Lora', serif;
+    font-family: 'Ubuntu Mono', monospace;;
+    text-align: center;
+}
+
+ul {
+    text-shadow: #0be474;
+    text-shadow: #E89B31;
+    list-style-type: square;
+    border-radius: 5.2px;
+    background-color: hsl(271, 63%, 71%)
+
+}
+
+
+
+fieldset {
+
+    border-radius: 15px;
+    background-color: #40a5a5;
+}
